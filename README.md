@@ -17,3 +17,6 @@ This webpage is designed to users about the creator of the webpage (myself) it c
 
 ## Known Bugs 
 No Known Bugs 
+
+##License
+Copyright (c) 2023 Daisy Orozco 
