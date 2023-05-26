@@ -14,9 +14,9 @@ A Webpage about Myself using HTML
 This webpage is designed to users about the creator of the webpage (myself) it contains useful information about myself such as hobbies, past jobs etc. Lets the user know more about me as well as providing photos of my photography  
 
 ## Setup/Installation Requirements
-*Have Github and Copy the Code link
-*Clone into your Desktop by using Commands
-*Use command git clone url-of-remote-repo
+* Have Github and Copy the Code link
+* Clone into your Desktop by using Commands
+* Use command git clone url-of-remote-repo
 
 ## Known Bugs 
 No Known Bugs 
