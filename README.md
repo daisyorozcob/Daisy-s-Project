@@ -15,10 +15,12 @@ This webpage is designed to let users know more about the creator of the webpage
 ## Setup/Installation Requirements
 * Have Github and Copy the Code link
 * Clone into your Desktop by using Commands
+* 
 * Use command git clone url-of-remote-repo
 
 ## Known Bugs 
 No Known Bugs 
 
-##License
+## License
+MIT
 Copyright (c) 2023 Daisy Orozco 
